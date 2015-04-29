@@ -8,5 +8,5 @@ This repository contains the contents worked on during the Cisco Cybersecuirty I
   > The distance sensor would be either fixed on top of the desktop or near by in the cubical/office. 
   > Lastly, the sound sensor would be positioned in the keyboard or near to detect noise.
 
-All three sensors will contribute to determining if a person is present at their workplace. 
-If a person is flagged as present, the light will remain on only in that area of the office, preventing overconsumption of electricity.
+> All three sensors will contribute to determining if a person is present at their workplace. 
+> If a person is flagged as present, the light will remain on only in that area of the office, preventing overconsumption of electricity.
